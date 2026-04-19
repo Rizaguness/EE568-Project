@@ -2,6 +2,6 @@ Statorrotor2.mph is a file that FEM analysis is done on COMSOL. It is 2D analysi
 
 Fluxvector0, fluxvector45 and fluxvector90 are the graph that used in Q2-B and Q3-b.
 
-Analitil vs FEM.xlsx file is that calculations and comparisons are made in it.
+Analitik vs FEA.xlsx and Inductance_energy_torque.xlsx files are that calculations and comparisons are made in them.
 
 animation.gif is a file that for Q5(Motion Animation). The simulation model is used in Q3.
